@@ -1,0 +1,29 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+.for_business{
+    display: none;
+}
+
+form.wpn_reg_form {
+    border: 1px solid #d3ced2;
+    padding: 35px 30px 25px;
+    margin: 2em 0;
+    text-align: left;
+    border-radius: 5px;
+    background: #fff;
+}
+.input_group{
+	margin-bottom:20px;
+}
+.input_group input,
+.input_group select{
+    width: 100%;
+	margin-left:0 !important;
+}
+
+.input_group label {
+	margin-bottom: 10px;
+    display: block;
+}
